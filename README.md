@@ -1,6 +1,6 @@
 # Data Engineer Portfolio
 
-Greetings! My name is Amaan, and I'm excited to share my still developing data engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed , each of which covers essential skills and techniques.
+Greetings! My name is Amaan, and I'm excited to share my still developing data engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering courses or self development exercises, each of which covers essential skills and techniques.
 #
 ### [Sales Management - Power BI, SQL, Excel](https://github.com/AmaanK03/Sales-Management)
 
